@@ -1,7 +1,5 @@
 # LG_CX_PROJECT
 
----
-
 # Proposal for Expanding into the Hotel Industry
 
 ## Overview
