@@ -29,7 +29,3 @@ Given LG Electronics' strong emphasis on B2B opportunities, we propose an expans
 3. **Pilot Projects**: Initiate pilot projects with select hotels to showcase LG’s technological capabilities and gather feedback.
 
 We believe this proposal aligns well with LG Electronics' current business strategy and presents a promising opportunity for growth and innovation in the B2B sector.
-
----
-
-Feel free to adjust any specifics to better fit your needs or the style of your GitHub repository!
