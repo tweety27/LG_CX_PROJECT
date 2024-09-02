@@ -1,5 +1,4 @@
 # LG_CX_PROJECT
-Sure! Here’s a draft for your GitHub README that summarizes the information and proposal in a clear and concise manner:
 
 ---
 
